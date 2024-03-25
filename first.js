@@ -1,0 +1,1 @@
+document.getElementById('stuff').textContent = 'this is coming from a JS file';
